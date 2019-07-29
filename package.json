@@ -18,8 +18,8 @@
   },
   "bugs": "http://github.com/tlivings/extrefs/issues",
   "dependencies": {
-    "babel-runtime": "^4.3.0",
-    "babel": "^4.3.0",
+    "babel-runtime": "^6.26.0",
+    "babel-cli": "^6.26.0",
     "caller": "^1.0.0",
     "core-util-is": "^1.0.1",
     "wreck": "^5.6.0"
