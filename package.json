@@ -35,5 +35,6 @@
     "test": "npm run compile && babel-node --presets=@babel/preset-env test/harness.js test/**/*.js",
     "compile": "babel --presets=@babel/preset-env --out-dir dist lib/index.js"
   },
-  "main": "./dist/index"
+  "main": "./dist/index",
+  "license": "MIT"
 }
