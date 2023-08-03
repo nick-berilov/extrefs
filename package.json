@@ -18,18 +18,18 @@
   },
   "bugs": "http://github.com/tlivings/extrefs/issues",
   "dependencies": {
-    "@babel/cli": "7.5.5",
-    "@babel/compat-data": "7.22.9",
-    "@babel/core": "7.5.5",
-    "@babel/node": "7.5.5",
-    "@babel/preset-env": "7.5.5",
-    "@hapi/wreck": "17.0.0",
-    "caller": "1.0.0",
-    "core-util-is": "1.0.1"
+    "@babel/cli": "^7.5.5",
+    "@babel/compat-data": "^7.22.9",
+    "@babel/core": "^7.5.5",
+    "@babel/node": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@hapi/wreck": "^17.0.0",
+    "caller": "^1.0.0",
+    "core-util-is": "^1.0.1"
   },
   "devDependencies": {
-    "glob": "7.1.4",
-    "tape": "5.0.1"
+    "glob": "^7.1.4",
+    "tape": "^5.0.1"
   },
   "scripts": {
     "postinstall": "npm run compile",
